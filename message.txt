@@ -1,0 +1,31 @@
+GOOD MORNING ${PERSON_NAME}
+THE WEATHER OF ${CITY_NAME} IS AS FOLLOWS:
+TEMPERATURE IN CELSIUS: 27C
+TEMPERATURE IN FAHRENHEIT: 80F
+PRECIPITATION: 7%
+HUMIDITY: 68%
+WIND: 5 km/h
+
+WORLD NEWS FOR TODAY:
+Trials to combine Oxford and Sputnik vaccines
+    The aim is to see whether mixing two vaccines could improve protection against Covid-19.
+
+US drugs agency to approve vaccine 'within days'
+    US Health Secretary Alex Azar says Covid vaccinations could begin on Monday or Tuesday.
+
+EU leaders raise target for emissions cut to 55%
+    All-night talks lead to a goal of cutting CO2 emissions by 55% by 2030, rather than 40%.
+
+Argentina abortion bill passes key vote
+    Parliament's lower house voted to legalise abortion but the bill must pass the Senate to become law.
+
+Record Covid deaths in Germany and Russia
+    Germany is facing calls for a second lockdown before Christmas.
+
+Aid workers killed in Ethiopia conflict
+    Four aid workers were killed last month during fighting in the Tigray region, aid agencies say.
+
+Racing to save one of the great wonders of nature
+    Volunteers have been asked to take and categorise thousands of photos of the Great Barrier Reef.
+
+WANT TO READ MORE. CLICK HERE --------->  https://www.bbc.com/news/world
