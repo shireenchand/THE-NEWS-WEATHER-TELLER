@@ -70,7 +70,7 @@ def send_email():
     #setting up the SMTP server
     s = smtplib.SMTP(host='smtp.gmail.com', port=587)
     s.starttls()
-    s.login("pyaut2710@gmail.com", "python@123")
+    s.login("YOUR GMAIL", "YOUR PASSWORD")
 
 
     def get_contacts(filename):
@@ -97,7 +97,7 @@ def send_email():
     for name,email,city in zip(names,emails,cities):
         msg = MIMEMultipart()
         message = message_template.substitute(PERSON_NAME = name.title(), CITY_NAME = city.title())
-        msg ['FROM'] = 'Shireen'
+        msg ['FROM'] = name
         msg['TO'] = email
         msg['SUBJECT'] = 'THE DAYPY'
 
