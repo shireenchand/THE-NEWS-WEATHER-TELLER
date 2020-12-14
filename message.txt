@@ -1,31 +1,31 @@
 GOOD MORNING ${PERSON_NAME}
 THE WEATHER OF ${CITY_NAME} IS AS FOLLOWS:
-TEMPERATURE IN CELSIUS: 27C
-TEMPERATURE IN FAHRENHEIT: 80F
-PRECIPITATION: 7%
-HUMIDITY: 68%
-WIND: 5 km/h
+TEMPERATURE IN CELSIUS: 26C
+TEMPERATURE IN FAHRENHEIT: 78F
+PRECIPITATION: 2%
+HUMIDITY: 77%
+WIND: 13 km/h
 
 WORLD NEWS FOR TODAY:
-Trials to combine Oxford and Sputnik vaccines
-    The aim is to see whether mixing two vaccines could improve protection against Covid-19.
+Trump rejects early White House vaccinations
+    The US president asks for an "adjustment" to plans to vaccinate White House officials early.
 
-US drugs agency to approve vaccine 'within days'
-    US Health Secretary Alex Azar says Covid vaccinations could begin on Monday or Tuesday.
+Christmas lockdown for Germany as virus spikes
+    The authorities have been struggling to control a growing number of infections and deaths.
 
-EU leaders raise target for emissions cut to 55%
-    All-night talks lead to a goal of cutting CO2 emissions by 55% by 2030, rather than 40%.
+Wild weather lashes Australia's east coast
+    Heavy rain and huge ocean swells batter popular tourist spots, prompting hundreds of calls for help.
 
-Argentina abortion bill passes key vote
-    Parliament's lower house voted to legalise abortion but the bill must pass the Senate to become law.
+Eswatini's PM dies after contracting Covid-19
+    The country's government says Ambrose Dlamini, 52, died in hospital in South Africa on Sunday.
 
-Record Covid deaths in Germany and Russia
-    Germany is facing calls for a second lockdown before Christmas.
+China says journalist arrest is 'internal affair'
+    International pressure is mounting after a Chinese Bloomberg journalist was detained by Beijing.
 
-Aid workers killed in Ethiopia conflict
-    Four aid workers were killed last month during fighting in the Tigray region, aid agencies say.
+Inside a vaccine cold storage room
+    The BBC's Karishma Vaswani takes a look around a vaccine cold storage facility in Singapore.
 
-Racing to save one of the great wonders of nature
-    Volunteers have been asked to take and categorise thousands of photos of the Great Barrier Reef.
+EU powers boycott Iran forum over execution
+    A diplomatic row has blown up over Iran's execution of pro-opposition journalist Ruhollah Zam.
 
 WANT TO READ MORE. CLICK HERE --------->  https://www.bbc.com/news/world
